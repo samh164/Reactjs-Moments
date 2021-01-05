@@ -4,7 +4,7 @@ How to run
   
   / once open you must split your terminal as there is 2 sides to the app. Server and client side
   
-  / Once you have CD in Cleint and Server side on the terminal you can start the app
+  / Once you have CD in Client and Server side on the terminal you can start the app
   
   / enter NPM start on both terminals
   
