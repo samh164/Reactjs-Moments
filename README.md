@@ -1,4 +1,4 @@
-Please use master branch > client folder did not upload correctly
+Please use done branch > client folder did not upload correctly
 
 How to run
 
