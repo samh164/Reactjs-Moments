@@ -15,6 +15,10 @@ app.use(cors());
 
 app.use("/posts", postRoutes);
 
+app.get('/',(req,res)=> {
+  res.send('Hello to Moments API');
+});
+
 // const CONNECTION_URL =
 //   "mongodb+srv://samh164:admin@cluster0.zzn5g.mongodb.net/memories?retryWrites=true&w=majority";
 const PORT = process.env.PORT || 5000;
